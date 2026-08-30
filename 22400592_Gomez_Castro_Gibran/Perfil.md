@@ -20,7 +20,7 @@ Además de tener cierto gusto por los animales...
 - **HTML:** Este lo eh usado pero la verdad ya casi no recuerdo aunque sé que no es tan complicado sirve para la creación de páginas web.
 - **CSS:** Este le da el diseño que se busca tener en una página web.
 
-  ##  INFORMACIÓN DE CONTACTO
+##  INFORMACIÓN DE CONTACTO
 
 **Correo electrónico:** gigomezca@ittepic.edu.mx
 
